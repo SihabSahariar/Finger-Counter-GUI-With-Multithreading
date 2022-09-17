@@ -12,3 +12,7 @@ pip install mediapipe
 
 ### Preview
 ![](Capture.PNG)
+
+### References 
+- https://google.github.io/mediapipe/
+- https://sihabsahariar.medium.com/a-multi-threading-approach-for-faster-opencv-video-streaming-in-python-7324f11dbd2f
