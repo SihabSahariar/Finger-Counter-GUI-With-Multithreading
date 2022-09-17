@@ -1,4 +1,4 @@
-# Finger-Counter-Using-Camera
+# Finger Counter GUI With Multithreading 
 Mediapipe &amp; OpenCV Integration with PyQt5
 ```
 pip install PyQt5
